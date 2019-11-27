@@ -1,1 +1,0 @@
-{"ast":null,"code":"import Link from 'next/link';","map":{"version":3,"sources":["/Users/chester/Desktop/learning/next_js/hello-next/pages/header.js"],"names":["Link"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,WAAjB","sourcesContent":["import Link from 'next/link';"]},"metadata":{},"sourceType":"module"}
