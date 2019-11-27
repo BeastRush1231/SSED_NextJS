@@ -1958,7 +1958,7 @@ const Content = () => {
       lineNumber: 8
     },
     __self: undefined
-  }, router.query.title), __jsx("p", {
+  }, router.query.id), __jsx("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
